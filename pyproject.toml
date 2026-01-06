@@ -8,7 +8,8 @@ version = "1.0.0"
 description = "BDBOTS 🇧🇩 – Your trusted tech partner for Telegram bots, Python solutions, website development, and reliable hosting. Powered by expertise, driven by customer satisfaction. ❤️"
 authors = [{ name = "BDBOTS", email = "contact@bdbots.org" }]
 readme = "README.md"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.9"
 dependencies = []
 
